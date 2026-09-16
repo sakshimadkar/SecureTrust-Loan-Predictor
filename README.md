@@ -22,3 +22,8 @@ An end-to-end Machine Learning pipeline to automate the loan approval process fo
 1. Clone the repository:
    ```bash
    git clone [https://github.com/sakshimadkar/SecureTrust-Loan-Predictor.git](https://github.com/sakshimadkar/SecureTrust-Loan-Predictor.git)
+2. Install dependencies : pip install pandas numpy scikit-learn matplotlib
+3. Open SecureTrust.ipynb in Jupyter Notebook and run all cells to view predictions.
+ 
+
+
